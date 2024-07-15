@@ -1,0 +1,197 @@
+										HTML Theory
+
+1. what is html??
+- html stands for hyper text markup language
+- html used to create basic structure of web page 
+- html is a tag language
+
+2. what is the requirment of html??
+- editor
+- browser
+
+3. how to save html file??
+- .html
+
+4. html structure??
+- <html>
+		<head>
+				<title></title>
+		</head>
+				<body>
+				</body>
+ </html>
+
+- thing that add extra additional information include the tage is called attribute
+
+5. what is html tag??
+-  words that start with <>
+-	most of html tag needs to be closed </html>
+
+6.	what is html attribute??
+-	thing that add extra additional information inside the tag is called attribute
+
+7.	what is void element??
+-	tags that dont need to be closed
+
+												
+												Tags
+1. bold
+-  <B>,<Strong>
+
+2. italic
+-	<i>,<em>,<address>,<cite>
+
+3.	underline
+-	<u>,<ins>
+
+													imp notes
+
+-	Line ne break krva mate <br> tag no use thay che
+
+-	Line ni niche liti krva mate <hr> tag no use thay che
+
+-	font size vadharva mate <font size=(4)>
+
+-	font ne color krva mate <color="red">
+
+													theory
+
+8.	what is html element??
+-	html tag with content is called element
+
+exm-	<b> this is element </b>
+
+9.	what is block element??
+-	tag that occupied full width of browser is called block level element most of html tags are block level element
+
+10. what is inline element??
+-	 tag that occupied required width
+
+11. what are heading tag??
+-	 <h1> to <h6>
+
+													tag 
+4.	<dl> (description list)
+		<dt>	(description terms)
+			<dd>	(description data)
+
+5.	<ul>  (unorder list)
+	</ul>
+
+6. <ol>  (order list)	
+   </ol>
+
+7.	<sub>
+			(anathi words niche jase)
+		</sub>			
+
+8.	<sup>
+			(anathi words uper jase)
+		</sup>
+
+9.	<mark>
+			(words ne highlight karva mate)
+	</mark>
+
+10. <del>&<s>
+-	 this tag used for line-through on text
+
+-	aa tag thi je lakhyu hoy ana uper liti krva mate aa tag no use thay che
+
+11. <center>
+-	 words ne vache leva mate aano use thy che
+	 </center>
+
+12. <image> (pixabay mathi download krva)
+-	 <img src="folder nu name/image nu name" width="" height="">
+
+13. <marquee direction="right">
+-		(right to left)
+-	 </marquee>
+
+14. what is anchor tag??
+-	 <a href="">
+-	 href=hyper reference, it is used to link the page, write the url or file name of other page
+-	 anchor tag used for internal link also external link
+
+Notes: <font size="" color=""></font>
+
+-	 internal,external link nu example bnavu
+-	 home,about,service,product,contact us.
+-	 <a href="" target="blank">
+
+15. <form action="">
+		<input type="" placeholder"">
+	 </form>
+
+16. <fieldset>
+				form ma border karva mate aa tag no use thay che
+	 </fieldset>
+
+17. <select>                     
+			<option>     (aa tag thi drop down list bnavi skay che)     
+	 </select>
+
+18. <textarea>
+					(aa tag thi ek box bne)
+	 </textarea>
+
+19. <table border="1"> (border no use table ma border krva mate thay)
+							<tr> (table row>
+							<td> (table data>
+							<th> (table heading)
+	 </table>
+
+20. <iframe src="" frameborder=""></iframe>
+-	 (you tube ni link copy karine mukvi)
+-	 (link mate = thi / sudhi kadhi nakhvanu ane tya ak / krvu ane vache embed lakhvu)
+
+21. <video>
+-	 <video controls autoplay muted loop> (control thi video dekhay, autoplay thi video puro thay n automatic start thay,loop thi video chalu rye,muted thi apde video n mute kri ski)
+-	 <source src="video no path" type="video/mp4"> 
+
+22. <audio controls>
+-	 <source src="audio path" type="audio/mp3"
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
